@@ -305,7 +305,7 @@ def render_charts():
     plt.close(fig)
 
 # ================= FOOTER =================
-tk.Label(root, text="Developed by Nada Mohammad", bg=BG, fg="#7C3AED", font=("Segoe UI", 9, "bold")).pack(side="bottom", pady=10)
+tk.Label(root, text="💜 Developed by Nada Mohammad", bg=BG, fg="#7C3AED", font=("Segoe UI", 9, "bold")).pack(side="bottom", pady=10)
 
 # ================= START APP =================
 refresh_table()
