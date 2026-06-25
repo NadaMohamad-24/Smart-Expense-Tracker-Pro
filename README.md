@@ -21,6 +21,10 @@ A modern desktop application developed using Python and Tkinter for managing per
 - Matplotlib
 - tkcalendar
 
+## Application Preview
+
+![Dashboard](screenshots/dashboard.png)
+
 ## Author
 
 Nada Mohammad
